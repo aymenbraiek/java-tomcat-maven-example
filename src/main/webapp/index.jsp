@@ -7,6 +7,7 @@
 <p> This is change is to verify the Stage vs Production</p>
 <p>aymen deploy this project with tomcat</p>
 <p> pipline is awesome thant i configure manuel</p>
+<p>pipeline updater</p>
 
 </body>
 </html>
